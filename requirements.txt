@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+streamlit
+langchain_community
+bs4
+pypdf
+ipykernel
+pinecone-client
