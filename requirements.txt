@@ -1,0 +1,13 @@
+langchain
+faiss-cpu
+dotenv
+langchain_community
+langchain-google-genai
+groq
+langchain-groq
+pypdf
+rank_bm25
+nltk 
+streamlit
+pandas 
+numpy
