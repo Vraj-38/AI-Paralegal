@@ -1,0 +1,37 @@
+# PDF processing
+PyMuPDF
+pdf2image
+pytesseract
+Pillow
+
+# LangChain & Embeddings
+langchain
+# Pinecone
+pinecone-client
+pinecone
+langchain-pinecone
+
+# Utilities
+tqdm
+
+dotenv
+langchain_community
+langchain-google-genai
+groq
+langchain-groq
+pypdf
+nltk 
+streamlit
+pandas 
+numpy
+reportlab
+fastapi
+PyPDF2
+docx
+uvicorn
+rouge-score 
+rouge 
+ragas 
+datasets 
+evaluate
+openpyxl
